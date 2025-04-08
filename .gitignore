@@ -1,0 +1,7 @@
+.vs
+x64
+Assembly Tutorials.sln
+*/x64
+*/*.vcxproj
+*/*.vcxproj.filter
+*/*.vcxproj.user
